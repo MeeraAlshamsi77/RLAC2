@@ -1,5 +1,5 @@
 ---
-title: "Post: Quote"
+title: "Assignment 1: Working with a Corpus"
 categories:
   - Blog
 tags:
